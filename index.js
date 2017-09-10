@@ -7,6 +7,3 @@ module.exports = {name, height, message}
 
 
 console.log(message);
-
-
-
